@@ -1,1 +1,1 @@
-# koral-s.github.io
+# koral.github.io
