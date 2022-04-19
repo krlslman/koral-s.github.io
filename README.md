@@ -8,11 +8,9 @@ I'd two years of domain experience in industrial engineering. I had my first C# 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 
-🌐📄 CHECKOUT MY RESUME!
-https://krlslman.github.io/krlslman/
+[🌐 CHECKOUT MY WEB PAGE HERE](https://krlslman.github.io/krlslman/)
 
-🎮 CHECKOUT MY DESKTOP GAME
-https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378aab485d1bf671/220221_RockPaperScissors/rock_paper_scissors_Preview.gif
+[🎮 CHECKOUT MY DESKTOP GAME HERE](https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378aab485d1bf671/220221_RockPaperScissors/rock_paper_scissors_Preview.gif)
 
 
 ### Skills
@@ -35,7 +33,7 @@ https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378a
 </p>
 
 
-### Socials
+### Find Me on Social Platforms
 
 <p align="left"> <a href="https://www.github.com/krlslman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/selmankoral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@selmankoral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
@@ -55,7 +53,6 @@ https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378a
 <br /><br /><br /><br /><br /><br />
 
 #### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS
-<br /><br />
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/koral"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
