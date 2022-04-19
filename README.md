@@ -1,7 +1,6 @@
 Hi 👋 I am Koral,
 =============================
-
-I am a Full Stack Web Developer
+Full stack web developer
 ------------------------
 I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of startup venture, I finally found my passion for full-stack development and sign up @Clarusway Bootcamp in 01-2022.
 
