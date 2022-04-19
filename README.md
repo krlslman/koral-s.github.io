@@ -3,11 +3,17 @@ Hi 👋 My name is Selman Koral
 
 Full Stack Web Developer
 ------------------------
-
-I am an industrial engineer with two years of domain experience. I had my first C# and Python class in 2016. Since then, I use different tools and technologies. I found my passion for full-stack development and sign up @Clarusway Bootcamp in 01-2022.
+I'd two years of domain experience in industrial engineering. I had my first C# and Python class in 2016. Since then, I use different tools and technologies. I found my passion for full-stack development and sign up @Clarusway Bootcamp in 01-2022.
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
+* ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
+
+🌐📄 CHECKOUT MY RESUME!
+https://krlslman.github.io/krlslman/
+
+🎮 CHECKOUT MY DESKTOP GAME
+https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378aab485d1bf671/220221_RockPaperScissors/rock_paper_scissors_Preview.gif
+
 
 ### Skills
 
@@ -33,7 +39,7 @@ I am an industrial engineer with two years of domain experience. I had my first 
 
 <p align="left"> <a href="https://www.github.com/krlslman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/selmankoral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@selmankoral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!--  ### Badges -->
 
 <b>My GitHub Stats</b>
 
