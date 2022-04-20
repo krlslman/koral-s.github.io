@@ -2,7 +2,7 @@ Hi 👋 I am Koral,
 =============================
 Full stack web developer
 ------------------------
-I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of startup venture, I finally found my passion for full-stack development and sign up @Clarusway Bootcamp in 01-2022.
+I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of startup venture, I finally found my passion for full-stack development.
 
 * 🌍  I'm based in Turkey, looking for new opportunities around the world
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
