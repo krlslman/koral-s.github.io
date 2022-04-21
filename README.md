@@ -1,11 +1,11 @@
-<p align="center"> Visitor Counter 🕵🏼</p>
+<p width="150px" align="center"> Visitor Counter 🕵🏼</p>
 
 Hi 👋 I am Koral,
 =============================
 Full stack web developer
 ------------------------
 <p align="center"><img src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
- <img align="right" width="400px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
+ <img align="left" width="350px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
  
 I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of startup venture, I found my passion for full-stack development.
 
