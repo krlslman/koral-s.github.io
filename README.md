@@ -4,6 +4,7 @@ Hi 👋 I am Koral,
 =============================
 Full stack web developer
 ------------------------
+<div>
 <img align="left" width="350px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
  
 I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of startup venture, I found my passion for full-stack development.
@@ -14,7 +15,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 [🌐 CHECKOUT MY WEB PAGE HERE](https://krlslman.github.io/krlslman/)
 
 [🎮 CHECKOUT MY DESKTOP GAME HERE](https://github.com/krlslman/Python_Assignments/blob/0ff1a41332c74b37317c5abb378aab485d1bf671/220221_RockPaperScissors/rock_paper_scissors_Preview.gif)
-
+</div>
 
 ### Skills
 
@@ -57,7 +58,8 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 
 #### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS
 ### Support Me
-
+<p align="right"> Visitor Counter 🕵🏼</p>
+<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
 <a href="https://www.buymeacoffee.com/koral"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <br /><br />
 
