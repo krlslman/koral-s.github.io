@@ -1,4 +1,4 @@
-<p width="150px" align="center"> Visitor Counter 🕵🏼</p>
+<p align="center"> Visitor Counter 🕵🏼</p>
 
 Hi 👋 I am Koral,
 =============================
