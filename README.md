@@ -12,12 +12,8 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 * 🌍  I'm based in Turkey, looking for new opportunities around the world
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 
-[🌐 CHECKOUT MY WEB PAGE HERE](https://krlslman.github.io/krlslman/)[ •Google Landing Page](https://p06-google-landingpage.netlify.app)
-[•Netflix Survey](https://p05-netflix-survey-form.netlify.app)
-[•Translator](https://p04-language-translator.netlify.app)
-[•Voltran](https://p03-voltran.netlify.app)
-[•Weather](https://p02-weather-app.netlify.app)
-[•Calculator](https://koral-calculator.netlify.app)
+[🌐 CHECKOUT MY WEB PAGE HERE](https://krlslman.github.io/krlslman/)
+[•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)[ •Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app)
  <br><br>
 </div>
 
