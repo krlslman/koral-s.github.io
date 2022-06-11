@@ -5,7 +5,7 @@ Hi 👋 I am Koral,
 Full stack web developer
 ------------------------
 <div>
-<img align="right" width="250px" src="https://i.ibb.co/T8rLcKy/coding.gif"/>
+<img align="right" width="20%" src="https://i.ibb.co/T8rLcKy/coding.gif"/>
 <!--  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
 <!-- I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. -->
 
