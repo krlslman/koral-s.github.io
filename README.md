@@ -9,7 +9,7 @@ Full stack web developer
 <!--  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
 <!-- I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. -->
 
-* 🌍  I'm based in Turkey, looking for new opportunities around the world \n
+* 🌍  I'm based in Turkey, looking for new opportunities around the world 
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. <br><br>
