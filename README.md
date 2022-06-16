@@ -19,14 +19,6 @@ Full stack web developer
 [•Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app) [ •Responsive Cards](https://p07-responsive-4-cards.netlify.app)  -->
  <br><br>  <br><br>
 </div>
-<style>
- .info{
-  display: flex;
- align-items: center;
- text-align: center;
- }
- </style>
-
 
 ### Skills
 
