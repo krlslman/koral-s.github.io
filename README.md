@@ -9,7 +9,7 @@ Full stack web developer
 <!--  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
 <!-- I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. -->
 </div>
- <div>
+ <div class='info'>
 * 🌍  I'm based in Turkey, looking for new opportunities around the world
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
@@ -19,6 +19,14 @@ Full stack web developer
 [•Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app) [ •Responsive Cards](https://p07-responsive-4-cards.netlify.app)  -->
  <br><br>  <br><br>
 </div>
+<style>
+ .info{
+  display: flex;
+ align-items: center;
+ text-align: center;
+ }
+ </style>
+
 
 ### Skills
 
