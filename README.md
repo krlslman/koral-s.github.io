@@ -5,7 +5,7 @@ Hi 👋 I am Koral,
 Full stack web developer
 ------------------------
 <div>
-<img align="right" width="50%" src="https://i.ibb.co/T8rLcKy/coding.gif"/>
+<img align="right" width="40%" src="https://i.ibb.co/T8rLcKy/coding.gif"/>
 <!--  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
 <!-- I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. -->
 * 🌍  I'm based in Turkey, looking for new opportunities around the world
@@ -13,8 +13,8 @@ Full stack web developer
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. <br><br>
 [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br>
-[•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
-[•Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app) [ •Responsive Cards](https://p07-responsive-4-cards.netlify.app) 
+<!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
+[•Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app) [ •Responsive Cards](https://p07-responsive-4-cards.netlify.app)  -->
  <br><br>  <br><br>
 </div>
 
