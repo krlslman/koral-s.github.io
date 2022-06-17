@@ -168,18 +168,21 @@ h1, h2, h3, h4, h5, h6 {
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
+  #hero {
+  background-position: 45% !important;
+  }
 }
 
 @media (min-width: 992px) {
   #main {
     margin-left: 100px;
   }
+
 }
 
 @media (max-width: 610px) {
   #hero {
-    /* border: red solid 2px; */
-  background-position: 82% !important;
+  background-position: 45% !important;
   }
 }
 
@@ -288,8 +291,12 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
-  background-size: cover;
+  /* background: url("../img/hero-bg.jpg") top right no-repeat; */
+  /* background: url("https://cdn.dribbble.com/users/241205/screenshots/5409400/media/a3be2e506bf7bebf1995612af62f41ef.png?compress=1&resize=1000x750&vertical=top") top right no-repeat; */
+  background: url("https://cdn.dribbble.com/users/722614/screenshots/5877799/media/d193121467b6e267e771a155728db2a9.jpg?compress=1&resize=800x600&vertical=top") top right no-repeat;
+  background: url("https://www.egeniq.nl/sites/default/files/2020-06/frontend_webdeveloper.jpg") top right no-repeat;
+  /* background: url("https://cdn.dribbble.com/users/1649278/screenshots/5813825/attachments/1253498/blog-post.png?compress=1&resize=800x600&vertical=top") center right no-repeat; */
+  background-size: cover ;
   position:relative;
   
 }
