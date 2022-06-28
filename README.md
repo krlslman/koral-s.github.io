@@ -17,7 +17,7 @@ Full stack web developer
 
 <!-- ![https://krlslman.github.io/krlslman][1] -->
 
-![https://i.ibb.co/QPVZhRD/portfolio.png](https://krlslman.github.io/krlslman)
+![.\assets\img\portfolio.png](https://krlslman.github.io/krlslman)
 
 <!-- [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br> -->
 <!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
