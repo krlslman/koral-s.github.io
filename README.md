@@ -13,11 +13,11 @@ Full stack web developer
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. <br><br>
-<img class="portfolioPng" align="left" src="https://i.ibb.co/QPVZhRD/portfolio.png" href="https://krlslman.github.io/krlslman" alt="portfolio" border="0" height="100px" > <br><br>
+<!-- <img class="portfolioPng" align="left" src="https://i.ibb.co/QPVZhRD/portfolio.png" href="https://krlslman.github.io/krlslman" alt="portfolio" border="0" height="100px" > <br><br> -->
 
-![https://krlslman.github.io/krlslman][1]
+<!-- ![https://krlslman.github.io/krlslman][1] -->
 
-[1]: https://i.ibb.co/QPVZhRD/portfolio.png
+![https://i.ibb.co/QPVZhRD/portfolio.png](https://krlslman.github.io/krlslman)
 
 <!-- [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br> -->
 <!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
