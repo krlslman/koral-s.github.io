@@ -14,7 +14,7 @@ Full stack web developer
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. <br><br>
 
-<a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="300"></a>
+<a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="240" style=" margin: 0 auto "></a>
 
 <!-- [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br> -->
 <!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
