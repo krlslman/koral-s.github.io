@@ -13,7 +13,7 @@ Full stack web developer
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. <br><br>
-<img class="portfolioPng" align="left" src="https://i.ibb.co/QPVZhRD/portfolio.png" href="https://krlslman.github.io/krlslman" alt="portfolio" border="0" style="background-position: center; background-size: cover; " > <br><br>
+<img class="portfolioPng" align="left" src="https://ibb.co/QPVZhRD" href="https://krlslman.github.io/krlslman" alt="portfolio" border="0" style="background-position: center; background-size: cover; " > <br><br>
 
 <!-- ![https://krlslman.github.io/krlslman][1] -->
 
@@ -30,6 +30,7 @@ Full stack web developer
 		background-size: cover;
 	}
 </style> -->
+
 ### Skills
 
 <p align="center">
