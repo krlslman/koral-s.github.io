@@ -67,7 +67,7 @@ Full stack web developer
 <div width="100%" align="center"><a href="https://github.com/krlslman/Python_Practices" align="left"><img align="right" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Python_Practices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/Frontend_Bootcamp" align="right"><img align="left" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Frontend_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br />
 
-#### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS..
+#### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS
 ### Support Me
 <p align="right"> Visitor Counter 🕵🏼</p>
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
