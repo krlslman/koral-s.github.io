@@ -51,6 +51,9 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 
 ### My GitHub Stats
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krlslman" alt="selmankoral" /></a> </p>
+
+
 <div align="center" ><a href="http://www.github.com/krlslman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krlslman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
 <div align="center" ><a href="http://www.github.com/krlslman"><img src="https://activity-graph.herokuapp.com/graph?username=krlslman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="195" /></a></div>
