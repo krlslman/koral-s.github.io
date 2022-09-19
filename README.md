@@ -86,8 +86,8 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 
 ### 😀 Random Dev Meme
 <div style="display:flex;justify-content:space-between;">
-  <div><img src="https://random-memer.herokuapp.com/" width="50%"/></div>
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadullah-tanrikulu&show_icons=true&locale=en&layout=compact" alt="sadullah-tanrikulu" /></div>
+  <img src="https://random-memer.herokuapp.com/" width="50%"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krlslman&show_icons=true&locale=en&layout=compact" alt="selmankoral" />
 </div>
 
 ![snake gif](https://github.com/krlslman/main/blob/output/github-contribution-grid-snake.gif)
