@@ -16,7 +16,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. 
 * 🌱 I’m currently learning Python-Django framework
-* 🗿 You can see my portfolio [HERE](https://selmankoral.netlify.app) <br><br>
+* 🗿 You can see my portfolio [HERE](https://selmankoral.netlify.app){:target="_blank" rel="noopener"} <br><br>
 <!-- * <a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="100" style=" margin: 0 auto "></a> -->
 
 <!-- [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br> -->
