@@ -54,22 +54,22 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krlslman&row=2&column=7" alt="selmankoral" /></a> </p>
 
 
-<div align="center" ><a href="http://www.github.com/krlslman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krlslman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
+<!-- <div align="center" ><a href="http://www.github.com/krlslman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krlslman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 
-<div align="center" ><a href="http://www.github.com/krlslman"><img src="https://activity-graph.herokuapp.com/graph?username=krlslman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="195" /></a></div>
+<div align="center" ><a href="http://www.github.com/krlslman"><img src="https://activity-graph.herokuapp.com/graph?username=krlslman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="195" /></a></div> -->
 
 ### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/krlslman/Python_Assignments" align="left"><img align="right" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Python_Assignments&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/SQL" align="right"><img align="left" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/krlslman/Python_Practices" align="left"><img align="right" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Python_Practices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/Frontend_Bootcamp" align="right"><img align="left" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Frontend_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="[https://github.com/krlslman/Python_Practices](https://github.com/krlslman/Backend_Bootcamp)" align="left"><img align="right" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Python_Practices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/Frontend_Bootcamp" align="right"><img align="left" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Frontend_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br />
 
 #### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS.
 ### Support Me
+<a href="https://www.buymeacoffee.com/koral"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p align="right"> Visitor Counter 🕵🏼</p>
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
-<a href="https://www.buymeacoffee.com/koral"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <br /><br />
 
 
