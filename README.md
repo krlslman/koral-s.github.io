@@ -23,7 +23,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 <!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
 [•Voltran](https://p03-voltran.netlify.app) [ •Weather](https://p02-weather-app.netlify.app) [ •Calculator](https://koral-calculator.netlify.app) [ •Responsive Cards](https://p07-responsive-4-cards.netlify.app)  -->
 
-### Skills
+### Languages and Tools
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
