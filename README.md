@@ -7,16 +7,17 @@ Full stack web developer
 ------------------------
 <div>
 <img align="right" width="40%" src="https://i.ibb.co/T8rLcKy/coding.gif"/>
-<!--  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
-<!-- I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. --> -->
+  https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g" -->
+I had my first C# and Python class in 2016. Since then, I use different tools and technologies. After two years of domain experience in industrial engineering and one year of software startup venture, I found my passion for full-stack development. -->
 
 
 * 🌍  I'm based in Turkey, looking for new opportunities around the world 
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
-* 💪 It's about being constantly better version of yourself, everyday. <br><br>
+* 💪 It's about being constantly better version of yourself, everyday. 
 * 🌱 I’m currently learning Python-Django framework
-* <a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="100" style=" margin: 0 auto "></a>
+* 🗿 You can see my portfolio [HERE](https://selmankoral.netlify.app) <br><br>
+<!-- * <a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="100" style=" margin: 0 auto "></a> -->
 
 <!-- [🌐<u>CHECKOUT MY WEB PAGE HERE</u>](https://krlslman.github.io/krlslman/)<br><br> -->
 <!-- [•Netflix Landing Page](https://p08-netflix-landingpage.netlify.app/) [•Navbar sample](https://p10-navigation-bar.netlify.app/) [•Expanding Cards](https://p09-expanding-cards.netlify.app/) [•Google Landing Page](https://p06-google-landingpage.netlify.app) [ •Netflix Survey](https://p05-netflix-survey-form.netlify.app) [ •Translator](https://p04-language-translator.netlify.app)<br>
