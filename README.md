@@ -1,5 +1,5 @@
 
-<div><img align="center" width="100%" src="[https://i.ibb.co/T8rLcKy/coding.gif](https://i.ibb.co/X55TgM5/banner.png)"/></div>
+<div><img align="center" width="100%" src="https://i.ibb.co/X55TgM5/banner.png"/></div>
 
 <!-- Hi 👋 I am Koral,
 =============================
