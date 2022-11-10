@@ -608,8 +608,9 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+  background: rgb(235 236 238 / 80%);
   border-radius: 20px;
+  max-height: 350;
 }
 .portfolio .portfolio-wrap::before {
   content: "";
