@@ -885,6 +885,9 @@ section {
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
+.testimonials .testimonials-carousel, .testimonials .testimonials-slider .swiper-wrapper{
+  height: min-content;
+}
 .testimonials .testimonial-item {
   text-align: center;
 }
