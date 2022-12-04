@@ -77,8 +77,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 <br /><br /><br /><br /><br /><br />
 
 #### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS
-### Support Me
-<a href="https://www.buymeacoffee.com/koral"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 <p align="right"> Visitor Counter 🕵🏼</p>
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
 <br /><br />
