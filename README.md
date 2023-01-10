@@ -1,5 +1,5 @@
 
-<div><img align="center" width="100%" src="https://i.ibb.co/X55TgM5/banner.png"/></div><br>
+<div><img align="center" width="100%" src=""/></div><br>
 
 <!-- Hi 👋 I am Koral,
 =============================
