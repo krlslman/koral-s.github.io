@@ -1,7 +1,7 @@
 
-<div><img align="center" width="100%" src=""/></div><br>
+<!-- <div><img align="center" width="100%" src=""/></div><br>
 
-<!-- Hi 👋 I am Koral,
+ Hi 👋 I am Koral,
 =============================
 Full stack web developer
 ------------------------
