@@ -41,16 +41,17 @@ body {
   
 }
 #pp-su {
-  opacity: 0.6;
-  transition: opacity 0.5s, border-radius 0.5s ;
-  box-shadow: 0 0 5px gray;
-  /* transition: box-shadow 1s; */
+  opacity: 0.9;
+  transition: filter 0.5s, opacity 0.5s;
+  box-shadow: 0 0 5px grey;
+  filter: grayscale(100%);
+  border-radius: 10px;
+  box-shadow: 0 0 10px #dddddd;
 }
 #pp-su:hover {
   opacity: 1;
-  box-shadow: 0 0 10px gray;
-  border-radius: 20px;
   transition: cubic-bezier(1.595, 0.885, 0.32, 1.275);
+  filter: grayscale(0%);
 }
 
 a {
@@ -412,6 +413,9 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about .section-title p{
+  text-align: justify;
+}
 .about .content h3 {
   flex-wrap: wrap;
   font-weight: 700;
@@ -424,7 +428,6 @@ section {
 }
 .about .content ul li {
   margin-bottom: 15px;
-  display: flex;
   align-items: center;
 }
 .about .content ul strong {
