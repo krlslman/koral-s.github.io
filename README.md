@@ -15,7 +15,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. 
-* 🌱 I’m currently learning Python-Django framework
+* 🌱 I’m currently learning Odoo framework
 * 🗿 You can see my portfolio [HERE](https://selmankoral.netlify.app)<br><br>
 <!-- * <a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="100" style=" margin: 0 auto "></a> -->
 
