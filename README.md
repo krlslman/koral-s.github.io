@@ -58,22 +58,7 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 
 ### My GitHub Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krlslman&row=2&column=7" alt="selman koral" /></a> </p>
-
-
-<!-- <div align="center" ><a href="http://www.github.com/krlslman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krlslman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
-
-<div align="center" ><a href="http://www.github.com/krlslman"><img src="https://activity-graph.herokuapp.com/graph?username=krlslman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" height="195" /></a></div> -->
-
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/krlslman/Python_Assignments" align="left"><img align="right" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Python_Assignments&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/SQL" align="right"><img align="left" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br/><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/krlslman/Backend_Bootcamp" align="left"><img align="right" width="45%" height="105"  src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Backend_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krlslman/Frontend_Bootcamp" align="right"><img align="left" width="45%" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=krlslman&repo=Frontend_Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krlslman&row=2&column=4" alt="selman koral" /></a> </p>
 
 #### 🤝 I'M OPEN TO COLLABORATING ON INTERESTING PROJECTS
 
@@ -81,11 +66,5 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 <p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{krlslman}/count.svg" alt="Visitor's Count" /></p>
 <br /><br />
 
-
-### 😀 Random Dev Meme
-<div style="display:flex;justify-content:space-evenly;">
-  <img src="https://random-memer.herokuapp.com/" width="300px"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=krlslman&show_icons=true&locale=en&layout=compact" alt="selmankoral-top-langs" />
-</div>
 
 ![snake gif](https://github.com/krlslman/main/blob/output/github-contribution-grid-snake.gif)
