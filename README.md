@@ -14,7 +14,6 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 * ✉️  You can contact me at [selmankorall@gmail.com](mailto:selmankorall@gmail.com)
 * 💬 I am happy to teach you what I know and eager to learn what you will offer
 * 💪 It's about being constantly better version of yourself, everyday. 
-* 🌱 I’m currently learning/practicing Typescript, Reactjs, Django.
 * 🗿 You can see my portfolio [HERE](https://koral-portfolio.vercel.app)<br><br>
 <!-- * <a href="https://krlslman.github.io/krlslman"><img src="https://i.ibb.co/fkWbZ5D/portfolio.png" alt="portfolio" border="0" width="100" style=" margin: 0 auto "></a> -->
 
@@ -67,4 +66,4 @@ I had my first C# and Python class in 2016. Since then, I use different tools an
 <br /><br />
 
 
-![snake gif](https://github.com/krlslman/main/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/krlslman/main/blob/output/github-contribution-grid-snake.gif) -->
